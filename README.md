@@ -3,6 +3,8 @@ Landing page template for code learning course built with Vite Vue 3 + Tailwindc
 
 ![Online Course Landing Page With Vite Vue3 + Tailwindcss3](public/img/cover.png)
 
+<p align="center">[Landing Page Demo](https://code-learning-template.netlify.app/)</p>
+
 ## Resources
 - [Vitejs](https://vitejs.dev/)
 - [Vuejs](https://vuejs.org/)
